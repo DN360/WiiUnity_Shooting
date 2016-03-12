@@ -12,4 +12,4 @@ WiiリモコンとUnityをつなげてシューティングゲーム作ろうっ
 
 [WiimoteLib](https://github.com/simphax/WiimoteLib "WiimoteLib")
 
-* これ
+* これが今回の要。というか、これを頼りにしてる。
