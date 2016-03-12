@@ -9,5 +9,6 @@ WiiリモコンとUnityをつなげてシューティングゲーム作ろうっ
 #fluorite3
 
 使うものメモ：
-wiimote.dll
+
+[WiimoteLib](https://github.com/simphax/WiimoteLib "WiimoteLib")
 
